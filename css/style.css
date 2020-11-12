@@ -19,13 +19,13 @@ body{
 
 header{
 	padding: 20px 0;
-	border: 1px solid red;
+/* 	border: 1px solid red; */
 
 }
 .container{
 	margin: 0 auto;
 	width: 90%;
-	border: 1px solid red;
+/* 	border: 1px solid red; */
 	overflow: hidden;
 }
 
