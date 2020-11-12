@@ -58,6 +58,7 @@ header{
 	display: inline-block;
 	/*border-bottom: 1px solid transparent;*/
 	transition: .3s;
+	border-bottom: 1px solid transparent;
 }
 .menu ul li:last-child a{
 	margin-right: 0;
